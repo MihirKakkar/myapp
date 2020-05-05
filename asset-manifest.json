@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/mihirkakkar.github.io/myapp/static/css/main.f44335b6.chunk.css",
-    "main.js": "/mihirkakkar.github.io/myapp/static/js/main.5d1279f4.chunk.js",
-    "main.js.map": "/mihirkakkar.github.io/myapp/static/js/main.5d1279f4.chunk.js.map",
-    "runtime-main.js": "/mihirkakkar.github.io/myapp/static/js/runtime-main.881a83f5.js",
-    "runtime-main.js.map": "/mihirkakkar.github.io/myapp/static/js/runtime-main.881a83f5.js.map",
-    "static/js/2.fceac4d5.chunk.js": "/mihirkakkar.github.io/myapp/static/js/2.fceac4d5.chunk.js",
-    "static/js/2.fceac4d5.chunk.js.map": "/mihirkakkar.github.io/myapp/static/js/2.fceac4d5.chunk.js.map",
-    "index.html": "/mihirkakkar.github.io/myapp/index.html",
-    "precache-manifest.580b99f7dc868db74fd58cd56885404b.js": "/mihirkakkar.github.io/myapp/precache-manifest.580b99f7dc868db74fd58cd56885404b.js",
-    "service-worker.js": "/mihirkakkar.github.io/myapp/service-worker.js",
-    "static/css/main.f44335b6.chunk.css.map": "/mihirkakkar.github.io/myapp/static/css/main.f44335b6.chunk.css.map",
-    "static/js/2.fceac4d5.chunk.js.LICENSE.txt": "/mihirkakkar.github.io/myapp/static/js/2.fceac4d5.chunk.js.LICENSE.txt"
+    "main.css": "/myapp/static/css/main.f44335b6.chunk.css",
+    "main.js": "/myapp/static/js/main.576e8e8d.chunk.js",
+    "main.js.map": "/myapp/static/js/main.576e8e8d.chunk.js.map",
+    "runtime-main.js": "/myapp/static/js/runtime-main.47644e1d.js",
+    "runtime-main.js.map": "/myapp/static/js/runtime-main.47644e1d.js.map",
+    "static/js/2.fceac4d5.chunk.js": "/myapp/static/js/2.fceac4d5.chunk.js",
+    "static/js/2.fceac4d5.chunk.js.map": "/myapp/static/js/2.fceac4d5.chunk.js.map",
+    "index.html": "/myapp/index.html",
+    "precache-manifest.b9bd716c10058d47a8879bbf13290300.js": "/myapp/precache-manifest.b9bd716c10058d47a8879bbf13290300.js",
+    "service-worker.js": "/myapp/service-worker.js",
+    "static/css/main.f44335b6.chunk.css.map": "/myapp/static/css/main.f44335b6.chunk.css.map",
+    "static/js/2.fceac4d5.chunk.js.LICENSE.txt": "/myapp/static/js/2.fceac4d5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.881a83f5.js",
+    "static/js/runtime-main.47644e1d.js",
     "static/js/2.fceac4d5.chunk.js",
     "static/css/main.f44335b6.chunk.css",
-    "static/js/main.5d1279f4.chunk.js"
+    "static/js/main.576e8e8d.chunk.js"
   ]
 }
