@@ -32,13 +32,18 @@ function App() {
       
         <section id="section02"  class="demo">
         <a href="#section03"><span></span>:D</a></section>
+      
       <body className="App-body">
+        <div class="star star1"></div>
+        <div class="star star2"></div>
+        <div class="star star3"></div>
         <h2>Hey there, I'm Mihir 👋</h2>
         <p2>I'm an engineering student with a passion for making new things.</p2>
         <p2>On the side, I love basketball, cooking, and my guitar!</p2>
         <p2>Currently I am looking for 8-month internship opportunities starting September 2020.</p2>
         <p2>Feel free to reach out!</p2>
       </body>
+      
       <p3 id="section03">Made with 💖 by Mihir || Last Updated May 2020</p3>
     </div>
   );
