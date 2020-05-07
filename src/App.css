@@ -67,30 +67,6 @@ i {
   color: white;
 }
 
-.star {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100vh;
-  pointer-events: none;
-  animation: animate 8s ease-in-out infinite;
-}
-
-.star.star1 {
-  background: url(stars/star1.png);
-}
-
-.star.star2 {
-  background: url(stars/star2.png);
-  animation-delay: 0.4s;
-}
-
-.star.star3 {
-  background: url(stars/star3.png);
-  animation-delay: 0.8s;
-}
-
 .App-body {
   position: relative;
   width: 100%;
@@ -114,6 +90,7 @@ i {
   font-family: 'Permanent Marker', cursive;
   color: white;
   text-align: center;
+  animation: titles 2s ease-in-out;
 }
 
 #section02 a {
@@ -140,17 +117,52 @@ i {
   
 }
 
-@keyframes animate {
-  0%, 20%, 40%, 60%, 80%, 100%
+.star {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  pointer-events: none;
+  animation: stars 8s ease-in-out infinite;
+}
+
+.star.star1 {
+  background: url(stars/star1.png);
+}
+
+.star.star2 {
+  background: url(stars/star2.png);
+  animation-delay: 0.4s;
+}
+
+.star.star3 {
+  background: url(stars/star3.png);
+  animation-delay: 0.8s;
+}
+
+@keyframes stars {
+  0%, 25%, 50%, 75%, 100%
   {
     opacity: 0;
   }
   
-  10%, 30%, 50%, 70%, 90%
+  12.5%, 37.5%, 62.5%, 87.5%
   {
     opacity: 1;
   }
  
+}
+
+@keyframes titles {
+  0%
+  {
+    opacity: 0;
+  }
+  100%
+  {
+    opacity: 1;
+  }
 }
 
 @keyframes sdb05 {
