@@ -5,7 +5,11 @@ import './App.css';
 function App() {
   return (
     
-    <div id="part_with_title" className="App">
+    <div className="App">
+      {/* <div class="topnav">
+      <a href="#section03"></a>
+      <a href="#section03">I like dark mode</a>
+      </div>   */}
       <script src="https://kit.fontawesome.com/959728ec6b.js" crossorigin="anonymous"></script>
       <heading className="App-header">
 
@@ -24,7 +28,7 @@ function App() {
           <a href="mailto:m4kakkar@uwaterloo.ca" target="_blank">
             <i class="fa fa-envelope"></i>
           </a>
-          <a href="https://drive.google.com/open?id=1ZdQFSViq6Vi6fhVnsZagbJpcDScUzPLW" target="_blank">
+          <a href="https://drive.google.com/open?id=1ZdQFSViq6Vi6fhVnsZagbJpcDScUzPLW" target="_blank" >
             <i class="fa fa-file"></i>
           </a>
         </div>
