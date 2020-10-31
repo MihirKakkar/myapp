@@ -44,11 +44,11 @@ function App() {
         <h2>Hey there, I'm Mihir 👋</h2>
         <p2>I'm an engineering student with a passion for making new things.</p2>
         <p2>I am currently a software developer for BMO.</p2>
-        <p2>Currently I am looking for 4-month internship opportunities starting January 2021.</p2>
+        <p2>Currently I am looking for 8-month internship opportunities starting January 2022.</p2>
         <p2>Feel free to reach out!</p2>
       </body>
       
-      <p3 id="section03">Made with 💖 by Mihir || Last Updated September 2020</p3>
+      <p3 id="section03">Made with 💖 by Mihir || Last Updated November 2020</p3>
     </div>
   );
 }
