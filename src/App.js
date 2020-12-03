@@ -13,7 +13,7 @@ function App() {
       <script src="https://kit.fontawesome.com/959728ec6b.js" crossorigin="anonymous"></script>
       <heading className="App-header">
 
-        <h1>Mihir Kakkar</h1>
+        <h1 >Mihir Kakkar</h1>
         <p>Nanotechnology Engineering @ UWaterloo</p>
 
         <div id="part_with_icons">
@@ -43,8 +43,8 @@ function App() {
         <div class="star star3"></div>
         <h2>Hey there, I'm Mihir 👋</h2>
         <p2>I'm an engineering student with a passion for making new things.</p2>
-        <p2>I am currently a software developer for BMO.</p2>
-        <p2>Currently I am looking for 8-month internship opportunities starting January 2022.</p2>
+        <p2>Currently a software developer for BMO.</p2>
+        <p2>Looking for 8-month internship opportunities starting January 2022.</p2>
         <p2>Feel free to reach out!</p2>
       </body>
       
