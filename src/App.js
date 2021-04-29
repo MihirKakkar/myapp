@@ -28,7 +28,7 @@ function App() {
           <a href="mailto:m4kakkar@uwaterloo.ca" target="_blank">
             <i class="fa fa-envelope"></i>
           </a>
-          <a href="https://drive.google.com/open?id=1ZdQFSViq6Vi6fhVnsZagbJpcDScUzPLW" target="_blank" >
+          <a href="https://drive.google.com/file/d/1npBG6bOqbP-ADFON7Frr-57IHJwqWj53/view?usp=sharing" target="_blank" >
             <i class="fa fa-file"></i>
           </a>
         </div>
@@ -44,11 +44,11 @@ function App() {
         <h2>Hey there, I'm Mihir 👋</h2>
         <p2>I'm an engineering student with a passion for making new things.</p2>
         <p2>Currently a Data Engineer for Cuberg.</p2>
-        <p2>Looking for 8-month internship opportunities starting January 2022.</p2>
+        <p2>Looking for 4-month or 8-month internship opportunities starting January 2022.</p2>
         <p2>Feel free to reach out!</p2>
       </body>
       
-      <p3 id="section03">Made with 💖 by Mihir || Last Updated January 2021</p3>
+      <p3 id="section03">Made with 💖 by Mihir || Last Updated April 2021</p3>
     </div>
   );
 }
