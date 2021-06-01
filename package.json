@@ -1,5 +1,5 @@
 {
-  "homepage": "http://mihirkakkar.github.io/myapp",
+  "homepage": "http://mihirkakkar.tech",
   "name": "myapp",
   "version": "0.1.0",
   "private": true,
@@ -13,7 +13,7 @@
   },
   "scripts": {
     "predeploy": "npm run build",
-    "deploy": "gh-pages -b main -d build",
+    "deploy": "gh-pages -b maintwo -d build",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
