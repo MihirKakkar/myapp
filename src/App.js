@@ -28,7 +28,7 @@ function App() {
           <a href="mailto:m4kakkar@uwaterloo.ca" target="_blank">
             <i class="fa fa-envelope"></i>
           </a>
-          <a href="https://drive.google.com/file/d/1npBG6bOqbP-ADFON7Frr-57IHJwqWj53/view?usp=sharing" target="_blank" >
+          <a href="https://drive.google.com/file/d/1fCkEyMzYRtlDCK4RbnuSm9RDs3QWXkYV/view?usp=sharing" target="_blank" >
             <i class="fa fa-file"></i>
           </a>
         </div>
